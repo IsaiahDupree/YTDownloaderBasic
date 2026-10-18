@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+downloads/
+audio_samples/
